@@ -12,16 +12,16 @@ npm (Node Package Manager)
 
 Installation Steps:
 
-Clone the Repository
+1.Clone the Repository
 
-text
 git clone <your-repo-url>
 cd <project-directory>
-Install Dependencies
 
-text
+2.Install Dependencies
+
 npm install node-telegram-bot-api axios canvas asciichart winston
-Configuration
+
+3.Configuration
 
 The bot token and Vybe API key are currently hardcoded in app.js:
 
@@ -31,13 +31,11 @@ VYBE_API_KEY
 
 For security, consider using environment variables or a .env file in production.
 
-Run the Bot
+4.Run the Bot
 
-text
 node app.js
-Interact with the Bot
 
-Add your bot to Telegram using the provided token.
+5.Interact with the Bot
 
 Use supported commands (e.g., /price BTC, /details SOL, /trend RAY).
 
@@ -48,7 +46,7 @@ Usage Examples
 
 /trend USDC - View 7-day transfer volume trend and investment insights for USDC.
 
-Security Notes
+5.Security Notes
 API Keys: The Vybe API key and Telegram bot token are sensitive. Do not commit them to public repositories.
 
 Rate Limits: The bot implements caching and retry logic, but excessive requests may still be rate-limited by the Vybe API.
