@@ -51,4 +51,7 @@ API Keys: The Vybe API key and Telegram bot token are sensitive. Do not commit t
 
 Rate Limits: The bot implements caching and retry logic, but excessive requests may still be rate-limited by the Vybe API.
 
+link to the telegram bot
+https://t.me/Qbicks_bot
+
 
