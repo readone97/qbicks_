@@ -1,0 +1,76 @@
+2025-04-30T15:20:43.333Z - info: Fetching token details for SOL using mint address: So11111111111111111111111111111111111111112
+2025-04-30T15:20:43.344Z - info: Request URL: https://api.vybenetwork.xyz/token/So11111111111111111111111111111111111111112
+2025-04-30T15:20:58.965Z - info: Received token details: {"symbol":"wSOL","name":"Wrapped SOL","mintAddress":"So11111111111111111111111111111111111111112","price":142.32634746162645,"price1d":149.07393464839635,"price7d":144.59625744788056,"decimal":9,"logoUrl":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png","category":"DeFi","subcategory":"","verified":true,"updateTime":1746026100,"currentSupply":599617468.1701951,"marketCap":85341364118.85193,"tokenAmountVolume24h":4896398535.795092,"usdValueVolume24h":720627045643.2692}
+2025-04-30T15:24:54.479Z - info: Fetching token trend for SOL using mint address: So11111111111111111111111111111111111111112
+2025-04-30T15:25:24.514Z - error: Error fetching token trend: logger.warning is not a function
+2025-04-30T16:51:30.169Z - error: No price feed ID found for symbol: token
+2025-04-30T16:52:08.640Z - info: Fetching token details for BONK using mint address: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+2025-04-30T16:52:08.642Z - info: Request URL: https://api.vybenetwork.xyz/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+2025-04-30T16:52:25.270Z - info: Received token details: {"symbol":"Bonk","name":"Bonk","mintAddress":"DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263","price":0.000018684037244743,"price1d":0.0000198036803279,"price7d":0.000014100920405339,"decimal":5,"logoUrl":"https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I","category":"Meme","subcategory":"Dogs","verified":true,"updateTime":1746031500,"currentSupply":88829885743076.19,"marketCap":1659700893.669901,"tokenAmountVolume24h":3031122503824.182,"usdValueVolume24h":59740574.820852056}
+2025-04-30T16:53:17.065Z - info: Fetching token trend for BONK using mint address: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+2025-04-30T16:53:47.542Z - error: Error fetching token trend: logger.warning is not a function
+2025-04-30T17:01:16.668Z - info: Fetching token details for ATLAS using mint address: ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx
+2025-04-30T17:01:16.678Z - info: Request URL: https://api.vybenetwork.xyz/token/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx
+2025-04-30T17:01:34.918Z - info: Received token details: {"symbol":"ATLAS","name":"Star Atlas","mintAddress":"ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx","price":0.001298804761921918,"price1d":0.001328703671446678,"price7d":0.001293891303588562,"decimal":8,"logoUrl":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png","category":"Gaming","subcategory":"","verified":true,"updateTime":1746031500,"currentSupply":35999819585.474396,"marketCap":46756737.105944075,"tokenAmountVolume24h":373238775.6010472,"usdValueVolume24h":488370.37754236045}
+2025-04-30T17:01:43.071Z - info: Fetching token trend for ATLAS using mint address: ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx
+2025-04-30T17:02:13.100Z - info: Request timed out, retrying... (Attempt 1/5)
+2025-04-30T17:02:48.125Z - info: Request timed out, retrying... (Attempt 2/5)
+2025-04-30T17:03:23.152Z - info: Request timed out, retrying... (Attempt 3/5)
+2025-04-30T17:03:58.216Z - info: Request timed out, retrying... (Attempt 4/5)
+2025-04-30T17:04:32.856Z - info: Received token trend data for ATLAS
+2025-04-30T17:05:18.481Z - info: Fetching token trend for BONK using mint address: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+2025-04-30T17:05:48.500Z - info: Request timed out, retrying... (Attempt 1/5)
+2025-04-30T17:05:53.815Z - info: Received token trend data for BONK
+2025-04-30T17:14:57.719Z - info: Fetching token details for RAY using mint address: 4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R
+2025-04-30T17:14:57.729Z - info: Request URL: https://api.vybenetwork.xyz/token/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R
+2025-04-30T17:15:13.886Z - info: Received token details: {"symbol":"RAY","name":"Raydium","mintAddress":"4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R","price":2.7152449215461485,"price1d":2.879275335490322,"price7d":2.4469226880437964,"decimal":6,"logoUrl":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png","category":"DeFi","subcategory":"DEX","verified":true,"updateTime":1746032400,"currentSupply":554998962.032838,"marketCap":1506958113.1230469,"tokenAmountVolume24h":11940450.385357998,"usdValueVolume24h":33584551.3343199}
+2025-04-30T17:16:19.954Z - info: Fetching token trend for RAY using mint address: 4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R
+2025-04-30T17:16:49.981Z - info: Request timed out, retrying... (Attempt 1/5)
+2025-04-30T17:17:25.009Z - info: Request timed out, retrying... (Attempt 2/5)
+2025-04-30T17:17:57.555Z - info: Fetching token trend for USDT using mint address: Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB
+2025-04-30T17:17:59.562Z - info: Fetching token trend for USDT using mint address: Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB
+2025-04-30T17:18:00.047Z - info: Request timed out, retrying... (Attempt 3/5)
+2025-04-30T17:18:10.972Z - error: Request failed: socket hang up
+2025-04-30T17:18:29.585Z - info: Request timed out, retrying... (Attempt 1/5)
+2025-04-30T17:18:29.742Z - info: Fetching token trend for SOL using mint address: So11111111111111111111111111111111111111112
+2025-04-30T17:18:35.077Z - info: Request timed out, retrying... (Attempt 4/5)
+2025-04-30T17:18:41.060Z - error: Request failed: Request failed with status code 408
+2025-04-30T17:18:41.468Z - info: Received token trend data for RAY
+2025-04-30T17:18:59.831Z - info: Request timed out, retrying... (Attempt 1/5)
+2025-04-30T17:19:34.862Z - info: Request timed out, retrying... (Attempt 2/5)
+2025-04-30T17:20:07.359Z - info: Received token trend data for SOL
+2025-04-30T17:20:07.372Z - error: Error in trend command: Invalid count value: -4
+2025-04-30T17:26:22.743Z - info: Fetching token details for BONK using mint address: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+2025-04-30T17:26:22.753Z - info: Request URL: https://api.vybenetwork.xyz/token/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+2025-04-30T17:26:45.608Z - info: Received token details: {"symbol":"Bonk","name":"Bonk","mintAddress":"DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263","price":0.000018717078815098,"price1d":0.0000196134357607,"price7d":0.000013999253743206,"decimal":5,"logoUrl":"https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I","category":"Meme","subcategory":"Dogs","verified":true,"updateTime":1746033300,"currentSupply":88829872499758.11,"marketCap":1662635724.7130787,"tokenAmountVolume24h":3109075977614.753,"usdValueVolume24h":61088502.4769143}
+2025-04-30T17:26:57.022Z - info: Fetching token trend for BONK using mint address: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+2025-04-30T17:27:27.055Z - info: Request timed out, retrying... (Attempt 1/5)
+2025-04-30T17:27:32.919Z - info: Received token trend data for BONK
+2025-04-30T17:30:54.737Z - info: Fetching token trend for SOL using mint address: So11111111111111111111111111111111111111112
+2025-04-30T17:31:24.755Z - info: Request timed out, retrying... (Attempt 1/5)
+2025-04-30T17:31:59.792Z - info: Request timed out, retrying... (Attempt 2/5)
+2025-04-30T17:32:34.814Z - info: Request timed out, retrying... (Attempt 3/5)
+2025-04-30T17:33:09.850Z - info: Request timed out, retrying... (Attempt 4/5)
+2025-04-30T17:33:44.879Z - error: Request failed: timeout of 30000ms exceeded
+2025-04-30T17:54:48.813Z - info: Fetching token details for BTC using mint address: 9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E
+2025-04-30T17:55:06.855Z - info: Received token details: {"symbol":"soBTC","name":"Wrapped Bitcoin (Sollet)","mintAddress":"9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E","price":2639.676463613328,"price1d":2790.747264923551,"price7d":0,"decimal":6,"logoUrl":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png","category":"Wrapped Token","subcategory":"BTC","verified":true,"updateTime":1746034200,"currentSupply":16149.979368,"marketCap":42630720.425550446,"tokenAmountVolume24h":1.0698929999999998,"usdValueVolume24h":2871.6041460743177}
+2025-04-30T17:55:15.236Z - info: Fetching token trend for BTC using mint address: 9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E
+2025-04-30T17:55:23.306Z - info: Received token trend data for BTC
+2025-04-30T17:58:45.312Z - info: Fetching token details for BONK using mint address: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+2025-04-30T17:58:59.684Z - info: Received token details: {"symbol":"Bonk","name":"Bonk","mintAddress":"DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263","price":0.000019027456421356,"price1d":0.000020052288472748,"price7d":0.000014160578415296,"decimal":5,"logoUrl":"https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I","category":"Meme","subcategory":"Dogs","verified":true,"updateTime":1746035100,"currentSupply":88829861159583.7,"marketCap":1690206312.1290827,"tokenAmountVolume24h":3109075977614.753,"usdValueVolume24h":61088502.4769143}
+2025-04-30T18:00:39.477Z - info: Fetching token details for SOL using mint address: So11111111111111111111111111111111111111112
+2025-04-30T18:00:57.066Z - info: Received token details: {"symbol":"wSOL","name":"Wrapped SOL","mintAddress":"So11111111111111111111111111111111111111112","price":144.69499394765523,"price1d":145.96903759920792,"price7d":144.7791087129642,"decimal":9,"logoUrl":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png","category":"DeFi","subcategory":"","verified":true,"updateTime":1746036000,"currentSupply":599617468.1701951,"marketCap":86761645927.79474,"tokenAmountVolume24h":5119363783.298656,"usdValueVolume24h":750000639230.7384}
+2025-04-30T18:01:48.284Z - info: Fetching token trend for SOL using mint address: So11111111111111111111111111111111111111112
+2025-04-30T18:02:18.886Z - error: Error fetching token trend: Request failed with status code 408
+2025-04-30T20:25:03.026Z - info: Fetching token details for ETH using mint address: 2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk
+2025-04-30T20:25:24.223Z - info: Received token details: {"symbol":"soETH","name":"Wrapped Ethereum (Sollet)","mintAddress":"2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk","price":839.5626470588237,"price1d":866.6338811630848,"price7d":762.1290936434536,"decimal":6,"logoUrl":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png","category":"Wrapped Token","subcategory":"ETH","verified":true,"updateTime":1746044100,"currentSupply":483499.706057,"marketCap":405928293.069378,"tokenAmountVolume24h":29.247468000000005,"usdValueVolume24h":21377.129600379547}
+2025-04-30T20:26:38.802Z - info: Fetching token trend for ETH using mint address: 2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk
+2025-04-30T20:27:09.860Z - error: Error fetching token trend: Request failed with status code 408
+2025-04-30T20:34:14.059Z - info: Fetching token trend for BONK using mint address: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+2025-04-30T20:34:44.900Z - error: Error fetching token trend: Request failed with status code 408
+2025-04-30T20:35:46.449Z - info: Fetching token trend for SOL using mint address: So11111111111111111111111111111111111111112
+2025-04-30T20:36:17.399Z - error: Error fetching token trend: Request failed with status code 408
+2025-04-30T21:31:26.111Z - info: Fetching token details for BONK using mint address: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+2025-04-30T21:31:44.692Z - info: Received token details: {"symbol":"Bonk","name":"Bonk","mintAddress":"DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263","price":0.000019269740857196,"price1d":0.000019690144987647,"price7d":0.000014670831779601,"decimal":5,"logoUrl":"https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I","category":"Meme","subcategory":"Dogs","verified":true,"updateTime":1746048600,"currentSupply":88829741411147.39,"marketCap":1711726097.4045424,"tokenAmountVolume24h":3306283192277.543,"usdValueVolume24h":64151119.44519258}
+2025-04-30T21:32:55.311Z - info: Fetching token trend for BONK using mint address: DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263
+2025-04-30T21:33:26.277Z - error: Error fetching token trend: Request failed with status code 408

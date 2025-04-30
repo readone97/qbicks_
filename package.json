@@ -1,0 +1,16 @@
+{
+  "name": "vybebot",
+  "version": "1.0.0",
+  "description": "Telegram bot for cryptocurrency price tracking",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "asciichart": "^1.5.25",
+    "axios": "^1.6.2",
+    "canvas": "^3.1.0",
+    "node-telegram-bot-api": "^0.64.0",
+    "winston": "^3.11.0"
+  }
+}
